@@ -1,6 +1,5 @@
 <div align="center"> <h1> aiLarica </div>
 
-
 ## Sumário
 
 - [Sumário](#sumário)
@@ -9,14 +8,7 @@
 - [3. Público-Alvo](#3-público-alvo)
 - [4. Documentos gerais no repositório](#4-documentos-gerais-no-repositório)
   - [4.1. Requisitos](#41-requisitos)
-  - [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
-    - [Relação dos Atores](#relação-dos-atores)
-    - [Relação dos Casos de Uso](#relação-dos-casos-de-uso)
-    - [**UC1.1 - Cadastrar conta**](#uc11---cadastrar-conta)
-    - [**UC7.1.1 - Adicionar ao carrinho**](#uc711---adicionar-ao-carrinho)
-    - [**UC6 - Visualizar relatórios**](#uc6---visualizar-relatórios)
-    - [**UC4.2 - Atualizar produto**](#uc42---atualizar-produto)
-    - [**UC2 - Fazer Autenticação**](#uc2---fazer-autenticação)
+  - [4.2. Diagrama de Casos de Uso](#42-diagrama-de-casos-de-uso)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Autores](#autores)
 
@@ -75,7 +67,7 @@ O sistema tem como objetivo proporcionar uma experiência eficiente e intuitiva 
 | RNF10 | <sub>O sistema deve estar disponível 99% do tempo, com períodos de manutenção programada.</sub>         | Confiabilidade  | 
 
 
-### Diagrama de Casos de Uso
+### 4.2. Diagrama de Casos de Uso
 
 #### Relação dos Atores
 
@@ -132,7 +124,7 @@ O sistema tem como objetivo proporcionar uma experiência eficiente e intuitiva 
 | UC12  | Visualizar histórico de pedidos |
 
 <details>
-<summary> <b>Especificação dos Casos de Uso</b> </summary>
+<summary> <h3> Especificação dos Casos de Uso </h3> </summary>
 
 #### **UC1.1 - Cadastrar conta**
 
